@@ -8,3 +8,4 @@
 Tosinpeter/Tosinpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/JaeSeoKim/badge42)
