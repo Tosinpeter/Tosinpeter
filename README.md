@@ -24,14 +24,14 @@
  .########:                    :########.
 .########´                      `########.   Language Skills: Dart / Python / Java / Javascript
 :########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex / Perl
-.########.                      .########.   Web Skills: HTML / CSS / JavaScript / Tailwind
+.########.                      .########.   Web Skills: HTML / CSS / JavaScript / Tailwindcss / FastAPI
  .########:.                  .:########.    Text Formatting Skills: TeX / roff
   .############:..      ..:############.     Other Language Skills: TIBasic / Batch
     .###. `³####´        `###########.
       `###:. `³´          #########`         Languages_spoken: ["en_US", "es_ES"]
         `³######          ######³´
             `³³´          `³³´               Website: "https://tosinpeter.dev"
-                                             Technologies: Linux, Docker, Splunk, Graylog, ArcSight
+                                             Technologies: Flutter, Android studio
                                              Cloud: Oracle, Azure, AWS
                                              Databases Skills: Oracle, MySQl, SQLite, MongoDB, Cassandra
 
