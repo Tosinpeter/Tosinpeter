@@ -21,26 +21,26 @@
 
                   ......                     tosinpeter@github
             .::############::.               --------------------
-        .:######################:.           OS: Linux, CentOS, Windows
+        .:######################:.           OS: MacOS, Linux, CentOS, Windows
      .:############################:.        Role: Software Engineer 
-   .:#####´`³################³´`####:.       Uptime: 2 years +
+   .:#####´`³################³´`####:.       Uptime: 5 years +
   .#######.   `´´        ``´   .#######.     Packages: 54 (github), 23 (aur)
  .########:                    :########.
-.########´                      `########.   Language Skills: Python / Java / C / C++ / Go Lang
+.########´                      `########.   Language Skills: Dart / Python / Java / Javascript
 :########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex / Perl
-.########.                      .########.   Web Skills: HTML / CSS / JavaScript / PHP  
+.########.                      .########.   Web Skills: HTML / CSS / JavaScript / Tailwind
  .########:.                  .:########.    Text Formatting Skills: TeX / roff
   .############:..      ..:############.     Other Language Skills: TIBasic / Batch
     .###. `³####´        `###########.
       `###:. `³´          #########`         Languages_spoken: ["en_US", "es_ES"]
         `³######          ######³´
-            `³³´          `³³´               Website: "https://tosinpeter.tech"
+            `³³´          `³³´               Website: "https://tosinpeter.dev"
                                              Technologies: Linux, Docker, Splunk, Graylog, ArcSight
                                              Cloud: Oracle, Azure, AWS
                                              Databases Skills: Oracle, MySQl, SQLite, MongoDB, Cassandra
 
                                              Blogs: Dev
-                                             Contacts: [tosyno826@gmail.com, +254743575434]
+                                             Contacts: [tosyno826@gmail.com, +2348103555247]
 
 ```
 
