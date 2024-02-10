@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tosinpeter
 
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)]
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![GitHub followers](https://img.shields.io/github/followers/tosinpeter?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tosinpeter?label=Stars&style=social)
 <a href="" target="_blank" rel="noopener noreferrer">
