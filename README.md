@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sivakumar
+- 👋 Hi, I’m @Tosinpeter
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![GitHub followers](https://img.shields.io/github/followers/tosinpeter?label=Followers&style=social)
@@ -15,7 +15,7 @@
 
 ```groovy
 
-                  ......                     Sivakumar@github
+                  ......                     Tosinpeter@github
             .::############::.               --------------------
         .:######################:.           OS: MacOS, Linux, CentOS, Windows
      .:############################:.        Role: Software Engineer 
